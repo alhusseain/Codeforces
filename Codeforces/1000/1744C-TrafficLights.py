@@ -3,11 +3,11 @@ for i in range(k):
     input_arr=input().split()
     arr=input()
     arr+=arr
-    index_key=[]
+    #index_key=[]
     index_length=[]
     counting=False
     count=0
-    arg_count=0
+    #arg_count=0
     arr_size=int(input_arr[0])
     if input_arr[1]=="g": print(0)
     else:
